@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\source\\repos\\lab7.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3D00B-137D-4309-8421-604070A6DE53}|lab7.1\\lab7.1.vcxproj|C:\\Users\\karin\\source\\repos\\lab7.1\\lab7.1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F3D00B-137D-4309-8421-604070A6DE53}|lab7.1\\lab7.1.vcxproj|solutionrelative:lab7.1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E5DDBC-BFA1-45EF-A810-B9ED15C6E54F}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\karin\\source\\repos\\lab7.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6E5DDBC-BFA1-45EF-A810-B9ED15C6E54F}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\source\\repos\\lab7.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\karin\\source\\repos\\lab7.1\\UnitTest1\\UnitTest1.cpp*",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T19:02:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\source\\repos\\lab7.1\\lab7.1\\FileName.cpp",
+              "RelativeDocumentMoniker": "lab7.1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\karin\\source\\repos\\lab7.1\\lab7.1\\FileName.cpp",
+              "RelativeToolTip": "lab7.1\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T14:05:19.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
